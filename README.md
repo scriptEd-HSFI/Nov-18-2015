@@ -1,4 +1,4 @@
-## Session 12 - Nov-18-2015
+# Session 12 - Nov-18-2015
 
 ~*~*~ ScriptEd HSFI 2015 Yearbook ~*~*~*
 
@@ -10,18 +10,18 @@ Create a profile for yourself using the template html by adding a yearbook quote
 
 Steps: (READ THESE THROUGH ONCE AND THEN START!)
 
-#Set your your branch: 
+###Set your your branch: 
 1. Clone this repository in Cloud 9
 2. Create a new branch called feature/{firstname-lastname-profile} that will be the home for your new work. ex: feature/grace-tan-profile
   - git checkout -b feature/{firstname-lastname-profile} 
 3. Create a new file with the name: {firstname-lastname}-profile.html. ex: grace-tan-profile.html
 4. Copy the html in template.html into your new file.
 
-#Get working: 
+###Get working: 
 5. Start working on adding a picture and a yearbook phrase to your profile!
 6. Style your profile so it looks :sparkles: beautiful :sparkles:
 
-#Finish up: 
+###Finish up: 
 7. Add all of your files and create a commit
   - git add {filename}
   - git commit -m "my profile"
