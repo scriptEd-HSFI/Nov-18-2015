@@ -1,6 +1,6 @@
 # Session 12 - Nov-18-2015
 
-~*~*~ ScriptEd HSFI 2015 Yearbook ~*~*~*
+:sparkles: ScriptEd HSFI 2015 Yearbook :sparkles:
 
 We will be creating a yearbook TOGETHER for our awesome class! Today you will be practicing how to use git commands (git add, git commit, git branch, git push) and the Github interface to collaborate with each other! You'll also get in some CSS practice along the way. Woooo!
 
@@ -23,7 +23,7 @@ Steps: (READ THESE THROUGH ONCE AND THEN START!)
 
 ###Get working: 
 5. Start working on adding a picture and a yearbook phrase to your profile!
-6. Style your profile so it looks :sparkles: beautiful :sparkles:
+6. Style your profile so it looks :heart-eyes: beautiful :heart-eyess:
 
 ###Finish up: 
 7. Add all of your files and create a commit
