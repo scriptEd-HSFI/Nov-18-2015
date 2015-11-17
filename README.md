@@ -33,5 +33,6 @@ Steps: (READ THESE THROUGH ONCE AND THEN START!)
   - git push origin feature/{firstname-lastname-profile} 
 9. Open a pull request in this page.
 10. Grab someone to comment on your pull request and give you a thumb! (thumb means it's good to be merged!)
+  - checkout this emoji cheatsheet to find out how to do thumbs: http://www.emoji-cheat-sheet.com/ 
 11. Merge your pull request by clicking the merge button! 
 12. PROFIT! 
