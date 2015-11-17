@@ -15,7 +15,7 @@ Create a profile for yourself using the template html by adding a yearbook quote
 Steps: (READ THESE THROUGH ONCE AND THEN START!)
 
 ###Set your your branch: (5 minutes)
-1. Fork this repository and clone your forked repository in Cloud 9
+1.Create a new workspace in CLOUD9 and add this to the github url section: https://github.com/scriptEd-HSFI/Nov-18-2015.git
 2. Create a new branch called feature/{firstname-lastname-profile} that will be the home for your new work. ex: feature/grace-tan-profile
   - ```git checkout -b feature/{firstname-lastname-profile}``` 
 3. Create a new file with the name: {firstname-lastname}-profile.html. ex: grace-tan-profile.html
