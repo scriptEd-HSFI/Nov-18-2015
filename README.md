@@ -23,7 +23,7 @@ Steps: (READ THESE THROUGH ONCE AND THEN START!)
 
 ###Get working: (20 minutes)
 5. Start working on adding a picture and a yearbook phrase to your profile!
-6. Style your profile so it looks :heart-eyes: beautiful :heart-eyess:
+6. Style your profile so it looks :heart-eyes: beautiful :heart-eyes:
 
 ###Finish up: (10 minutes) 
 7. Add all of your files and create a commit
