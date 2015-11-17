@@ -7,6 +7,7 @@ We will be creating a yearbook TOGETHER for our awesome class! Today you will be
 ---
 Goal: 
 Create a profile for yourself using the template html by adding a yearbook quote, a picture (optional) and some styles! When you are done, submit your html file to the yearbook (this repository) by *pushing your branch* and *opening a pull request*. Grab someone else in the class to give you code review (get a :thumbsup:!), and then *merge your pull request* to add your profile to the yearbook!
+
 ---
 
 Steps: (READ THESE THROUGH ONCE AND THEN START!)
