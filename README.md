@@ -23,7 +23,7 @@ Steps: (READ THESE THROUGH ONCE AND THEN START!)
 
 ###Get working: (20 minutes)
 5. Start working on adding a picture and a yearbook phrase to your profile!
-6. Style your profile so it looks :heart-eyes: beautiful :heart-eyes:
+6. Style your profile so it looks :heart_eyes: beautiful :heart_eyes:
 
 ###Finish up: (10 minutes) 
 7. Add all of your files and create a commit
@@ -36,3 +36,5 @@ Steps: (READ THESE THROUGH ONCE AND THEN START!)
   - checkout this emoji cheatsheet to find out how to do thumbs: http://www.emoji-cheat-sheet.com/ 
 11. Merge your pull request by clicking the merge button! 
 12. PROFIT! 
+
+Here is a full run through of these steps with screenshots: [link](https://docs.google.com/a/wework.com/document/d/1L4-3J7ciLlSnJLdsRPSynWUolD9Qjif4IqFfwC6n8UQ/edit?usp=sharing)
