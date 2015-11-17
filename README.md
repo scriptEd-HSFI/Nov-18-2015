@@ -17,7 +17,7 @@ Steps: (READ THESE THROUGH ONCE AND THEN START!)
 ###Set your your branch: 
 1. Clone this repository in Cloud 9
 2. Create a new branch called feature/{firstname-lastname-profile} that will be the home for your new work. ex: feature/grace-tan-profile
-  - git checkout -b feature/{firstname-lastname-profile} 
+  - ```git checkout -b feature/{firstname-lastname-profile}``` 
 3. Create a new file with the name: {firstname-lastname}-profile.html. ex: grace-tan-profile.html
 4. Copy the html in template.html into your new file.
 
@@ -27,10 +27,10 @@ Steps: (READ THESE THROUGH ONCE AND THEN START!)
 
 ###Finish up: 
 7. Add all of your files and create a commit
-  - git add {filename}
-  - git commit -m "my profile"
+  - ```git add {filename}```
+  - ```git commit -m "my profile"```
 8. Push up your branch for review!
-  - git push origin feature/{firstname-lastname-profile} 
+  - ```git push origin feature/{firstname-lastname-profile} ```
 9. Open a pull request in this page.
 10. Grab someone to comment on your pull request and give you a thumb! (thumb means it's good to be merged!)
   - checkout this emoji cheatsheet to find out how to do thumbs: http://www.emoji-cheat-sheet.com/ 
