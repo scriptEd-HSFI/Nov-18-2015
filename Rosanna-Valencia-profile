@@ -1,0 +1,22 @@
+<div>
+    <p> Rosanna Valencia </p>
+    
+    <div>
+        <img src="http://uploads4.wikiart.org/images/vincent-van-gogh/alychamps-1888(1).jpg"></img>
+    </div>
+    
+  <style>
+       img {
+           width: 600px;
+           padding-top: 20px;
+           padding-left: 4px;
+       }
+       
+  </style>   
+
+   
+    <div>
+        <p>What I'm saying in 2015: </p>
+        <p>“Normality is a paved road: It’s comfortable to walk, but no flowers grow on it.”- Vincent Van Gogh</p>
+    </div>
+</div>
